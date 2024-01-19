@@ -1,4 +1,4 @@
-# synthetic_control
+# Synthetic Control: Reproducing the Findings from a Real-World Study in Python
 
 ## Overview
 The notebook `synthetic_control.ipynb` aims to reproduce in Python the results of a research paper that investigates the causal impact of climate change policy introduced in the United Kingdom in 2001.
